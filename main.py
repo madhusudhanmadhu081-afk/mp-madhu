@@ -1,1 +1,4 @@
-print(12+12)
+a=10
+b=200
+c=a+b
+print(c)
